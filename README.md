@@ -1,2 +1,3 @@
-# 00--CursoIngresoJS
-Curso de Ingreso 2017 -Javascript
+# CursoIngresoJS
+Curso de ingreso con JavaScript
+dsasadsadsadasdsad
